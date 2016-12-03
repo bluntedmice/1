@@ -1,0 +1,28 @@
+
+
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+
+.full {
+  background: url(bg.png) repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.LinkOne{
+    position:absolute;
+    left:0;
+    top:0;
+    z-index:2;
+}
+.LinkTwo{
+    position:absolute;
+    left:0;
+    top:0;
+    z-index:1;
+}
